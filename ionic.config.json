@@ -1,0 +1,7 @@
+{
+  "name": "saxpos-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
